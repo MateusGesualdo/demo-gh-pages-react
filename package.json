@@ -1,5 +1,6 @@
 {
   "name": "demo-gh-pages-react",
+  "homepage": "https://mateusgesualdo.github.io/demo-gh-pages-react/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
